@@ -1,0 +1,12 @@
+
+.cosmo{
+    text-align: center;
+    font-size: 18px;
+  }
+  .cosmo:hover{
+    color: rgba(238, 17, 17, 0.877); 
+  }
+
+  ul{
+    list-style-type: decimal;
+  }

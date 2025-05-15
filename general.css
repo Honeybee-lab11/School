@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    overflow-x: hidden;
+    font-family: 'Cambay';
+}
+.navbar-nav .nav-link:hover {
+    color: black !important;
+    text-decoration: underline;
+    transition: 0.3s ease;
+}
+
+
+
+/* -----------------navbar----------------- */
+
+
+.fotter{
+    width: 100%;
+    height: 400px;
+    background-color:rgba(238, 17, 17, 0.877);
+    color: white;
+    overflow-y: hidden;
+}
+.fotter a:hover{
+    background-color: black;
+    color: black;
+}
